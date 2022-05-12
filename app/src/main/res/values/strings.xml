@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lbc_test</string>
+    <string name="loading">Loading…</string>
+    <string name="error">An error occurred</string>
+</resources>
